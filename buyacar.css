@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+.productCars{
+    /* border: solid black 2px; */
+   
+}
+
+.cargallery{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}
+
+.cars{
+    border:solid black 2px;
+    padding: 10px;
+}
